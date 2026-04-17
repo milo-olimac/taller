@@ -1,0 +1,26 @@
+{
+  "ingredientes": [
+    { "nombre": "Hongo Brillante", "valor": 10, "iconoId": "hongo" },
+    { "nombre": "Raiz de Sombra", "valor": 15, "iconoId": "raiz" },
+    { "nombre": "Polvo Estelar", "valor": 25, "iconoId": "polvo" },
+    { "nombre": "Escama de Salamandra", "valor": 20, "iconoId": "escama" }
+  ],
+  "recetas": [
+    {
+      "id": 1,
+      "nombre": "Pocion de Vision",
+      "objetivos": [
+        { "ingrediente": "Hongo Brillante", "cantidad": 2 },
+        { "ingrediente": "Polvo Estelar", "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Elixir de Fuego",
+      "objetivos": [
+        { "ingrediente": "Escama de Salamandra", "cantidad": 2 },
+        { "ingrediente": "Raiz de Sombra", "cantidad": 1 }
+      ]
+    }
+  ]
+}

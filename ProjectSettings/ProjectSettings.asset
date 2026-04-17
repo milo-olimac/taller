@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 93edceb2a1052c74ebb63f589dc9e7cc
+  productGUID: f8fc6e8ff88566641b0d9829c69bdbf8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: taller de cg
+  productName: taller 2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -602,14 +602,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: taller de cg
+  metroPackageName: taller 2
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: taller de cg
+  metroApplicationDescription: taller 2
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -680,10 +680,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 12660e08-c897-4011-98d2-fbe69a3fe08a
+  cloudProjectId: 81d20091-f13c-4314-8b18-4ed9df12ca50
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: taller de cg
+  projectName: taller 2
   organizationId: juancamilo141452
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
